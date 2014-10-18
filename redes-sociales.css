@@ -1,0 +1,10 @@
+//Redes Sociales//
+.redes-sociales {
+
+}
+.redes-sociales ul li {
+display: inline-block;
+
+}
+.redes-sociales ul li a {
+  color: #808080;
